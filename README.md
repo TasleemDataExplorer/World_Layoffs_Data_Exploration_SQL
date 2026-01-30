@@ -5,15 +5,15 @@ The goal of this project is to use SQL for exploratory data analysis (EDA) for w
 ## Dataset Description
 
 The dataset includes information related to company layoffs across the world, with key columns such as:
-- Company
-- Location
-- Industry
-- Total employees laid off
-- Percentage laid off
-- Date of layoff
-- Company stage
-- Country
-- Funds raised (in millions)
+- `Company`
+- `Location`
+- `Industry`
+- `Total employees laid off`
+- `Percentage laid off`
+- `Date of layoff`
+- `Company stage`
+- `Country`
+- `Funds raised (in millions)`
 
 ## Key Analysis Performed
 
